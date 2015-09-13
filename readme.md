@@ -11,4 +11,4 @@ Pasos de instalacion
 
 5- Crear un fichero ".env" donde especifiquemos los datos de conexion con al BD.
 
-6- Para correr el proyecto, en la raiz del proyecto ejecutar el comando "php artisan serve".
+5- Para correr el proyecto, en la raiz del proyecto ejecutar el comando "php artisan serve".
