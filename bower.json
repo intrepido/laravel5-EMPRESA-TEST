@@ -1,0 +1,19 @@
+{
+  "name": "laravel5-EMPRESA-TEST",
+  "version": "0.0.0",
+  "authors": [
+    "Fidel Santana <in3pi287@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}

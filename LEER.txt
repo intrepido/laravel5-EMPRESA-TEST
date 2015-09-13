@@ -1,0 +1,22 @@
+Plantilla original con configuraciones basicas:
+
+Librerias:
+ - barryvdh/laravel-ide-helper (autocompletacion de codigo)
+ - caouecs/laravel4-lang (lenguaje en español e english)
+ - laravelcollective/html (para trabajar con formularios y html)
+ - filp/whoops (Visualizacion de errores en el navegador de una forma mas humana)
+
+Configuraciones:
+- Configurado el debug
+- BD por defecto instalada 'cinema_laravel5'
+- Sistema de login y authorization
+- Ejemplo de traducciones en las vistas.
+- Instalacion de Elixir y gulp para la automatizacion de tareas como compresion de js, css, pruebas unitarias, etc.
+- Instalacion y configuracion de Bower.
+
+Ejemplos realizados y que pueden reutilizarse:
+- Uso de ajax en el modulo de Users para listar, insertar, modifica y eliminar.
+- Paginacion de tablas via ajax.
+- Trabajo con relaciones entre modelos de 1 a muchos (Divition, Department)
+- Trabajo con relaciones entre modelos de 1 a 1 (User, Employee)
+
