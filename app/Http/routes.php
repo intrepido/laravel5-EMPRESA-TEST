@@ -25,11 +25,14 @@ Route::get('admin', [
     'as' => 'admin'
 ]);
 
+Route::get('admin/user/get_total_department_by_divitions', 'DivitionController@getTotalDepartmentByDivitions');
 Route::resource('admin/divition', 'DivitionController');
 
 Route::resource('admin/department', 'DepartmentController');
 
+Route::get('admin/user/get_users_employee_total', 'UserController@getUsersEmployeesTotal');
 Route::resource('admin/user', 'UserController');
+
 
 
 // Authentication routes...

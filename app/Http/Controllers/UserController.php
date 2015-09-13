@@ -2,6 +2,7 @@
 
 namespace Company\Http\Controllers;
 
+use Company\Employee;
 use Company\Http\Requests\UserEmployeeStoreRequest;
 use Company\Http\Requests\UserEmployeeUpdateRequest;
 use Company\User;
@@ -124,4 +125,20 @@ class UserController extends Controller
         $user->delete($id);
         return response()->json(['message'=>'The user was deleted successfully!!!']);
     }
+
+
+    /**
+     * Graph Users vs Empleyees
+     */
+    public function getUsersEmployeesTotal(Request $request)
+    {
+        //dd($request->all());
+        if ($request->ajax()) {
+            $users = User::all()->count();
+            $employees = Employee::all()->count();
+            return response()->json(['users' => $users, 'employees' => $employees]);
+        }
+
+    }
+
 }

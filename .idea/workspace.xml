@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae922c2d-3478-4a79-b1c8-4f03cc3facae" name="Default" comment="" />
+    <list default="true" id="ae922c2d-3478-4a79-b1c8-4f03cc3facae" name="Default" comment="">
+      <change type="DELETED" beforePath="E:\xampp_new\htdocs\laravel5-EMPRESA-TEST\public\js\admin.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp_new\htdocs\laravel5-EMPRESA-TEST\public\js\admin.js.map" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/DivitionController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/DivitionController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LEER.txt" afterPath="$PROJECT_DIR$/LEER.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/UserController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/UserController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" afterPath="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/users/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/users/index.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="E:\xampp_new\htdocs\laravel5-EMPRESA-TEST\resources\assets\js\template.js" afterPath="$PROJECT_DIR$/resources/assets/js/users.js" />
+    </list>
     <ignored path="laravel-tutorial.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -27,100 +41,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.038462">
-              <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+            <state vertical-scroll-proportion="-1.3076923">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PasswordController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/PasswordController.php">
+      <file leaf-file-name="admin.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/admin.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.423077">
-              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            <state vertical-scroll-proportion="39.23077">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/auth/register.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.692307">
-              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-39.115383">
-              <caret line="97" column="55" selection-start-line="97" selection-start-column="55" selection-end-line="97" selection-end-column="55" />
-              <folding>
-                <element signature="e#44#95#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/User.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="7.3076925">
-              <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
-              <folding>
-                <element signature="e#27#63#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AuthController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.5">
-              <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
-              <folding>
-                <element signature="e#49#66#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6816038">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AuthenticatesAndRegistersUsers.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php">
+      <file leaf-file-name="Handler.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Exceptions/Handler.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.9230769">
-              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.826972">
+              <caret line="78" column="5" selection-start-line="56" selection-start-column="4" selection-end-line="78" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RegistersUsers.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php">
+      <file leaf-file-name="app.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/assets/less/app.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.730769">
-              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-              <folding>
-                <element signature="e#46#74#0#PHP" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="26" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="principal.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/principal.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.8461537">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -163,15 +139,15 @@
       <command text="artisan serve" />
     </commandsHistory>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
-        <option value="$PROJECT_DIR$/.bowerrc" />
-        <option value="$PROJECT_DIR$/resources/assets/less/app.less" />
         <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" />
         <option value="$PROJECT_DIR$/resources/assets/css/template.css" />
@@ -187,10 +163,8 @@
         <option value="$PROJECT_DIR$/resources/views/department/edit.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/partials/errors.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/partials/errors-request.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/DivitionController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/DepartmentController.php" />
         <option value="$PROJECT_DIR$/app/Http/Requests/DepartmentRequest.php" />
-        <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/resources/views/partials/navbar-general.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/principal.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/divition/index.blade.php" />
@@ -198,7 +172,6 @@
         <option value="$PROJECT_DIR$/app/Http/Requests/DivitionRequest.php" />
         <option value="$PROJECT_DIR$/app/Http/Requests/UserRequest.php" />
         <option value="$PROJECT_DIR$/resources/views/auth/register.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/partials/errors-request-ajax.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/partials/success-request-ajax.blade.php" />
         <option value="$PROJECT_DIR$/resources/lang/es/validation.php" />
@@ -212,13 +185,19 @@
         <option value="$PROJECT_DIR$/bootstrap/app.php" />
         <option value="$PROJECT_DIR$/app/Exceptions/Handler.php" />
         <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
-        <option value="$PROJECT_DIR$/public/js/admin.js" />
         <option value="$PROJECT_DIR$/app/Http/Requests/UserEmployeeStoreRequest.php" />
         <option value="$PROJECT_DIR$/app/Http/Requests/UserEmployeeUpdateRequest.php" />
-        <option value="$PROJECT_DIR$/resources/views/users/index.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/users/table-pagination.blade.php" />
         <option value="$PROJECT_DIR$/resources/assets/js/template.js" />
+        <option value="$PROJECT_DIR$/public/js/admin.js" />
+        <option value="$PROJECT_DIR$/resources/assets/js/users.js" />
+        <option value="$PROJECT_DIR$/resources/views/users/index.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/resources/views/partials/graphics/dashboard-graphics.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/DivitionController.php" />
+        <option value="$PROJECT_DIR$/resources/assets/js/graphics.js" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
       </list>
     </option>
@@ -350,7 +329,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -389,6 +368,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="laravel5-EMPRESA-TEST" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel-tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel5-EMPRESA-TEST" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel-tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel5-EMPRESA-TEST" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -456,15 +475,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel-tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel5-EMPRESA-TEST" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="Http" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -480,19 +509,19 @@
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laravel5-CINEMA" />
-    <property name="SearchEverywhereHistoryKey" value="UserCon&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/UserController.php&#10;user&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/User.php&#10;rou&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/routes.php&#10;route&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/vendor/laravel/framework/src/Illuminate/Routing/Router.php&#10;User&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/User.php&#10;index&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/resources/views/users/index.blade.php&#10;temp&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/resources/assets/js/template.js&#10;Servi&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Providers/AppServiceProvider.php&#10;AppSer&#9;null&#9;null&#10;Emplo&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Employee.php&#10;Depart&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/DepartmentController.php&#10;depa&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/DepartmentController.php&#10;Au&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/Auth/AuthController.php&#10;rout&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/routes.php&#10;gulp&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/gulpfile.js&#10;emplo&#9;null&#9;null&#10;departmenCon&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/DepartmentController.php&#10;depart&#9;null&#9;null&#10;dep&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/DepartmentController.php&#10;home&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/HomeController.php&#10;hom&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/HomeController.php&#10;ulp&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/gulpfile.js&#10;Aut&#9;null&#9;null&#10;Admin&#9;null&#9;null&#10;HomeController&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/HomeController.php&#10;Con&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/HomeController.php&#10;Employ&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Employee.php&#10;Proje&#9;ACTION&#9;ActivateProjectToolWindow&#10;see&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/database/seeds/DatabaseSeeder.php&#10;regist&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/resources/views/auth/register.blade.php&#10;app&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/config/app.php&#10;Kernel&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/app/Http/Kernel.php&#10;au&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/app/Http/Middleware/Authenticate.php&#10;app.php&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/config/app.php&#10;regi&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/resources/views/auth/register.blade.php&#10;Hom&#9;null&#9;null&#10;Auth&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/app/Http/Controllers/Auth/AuthController.php&#10;kern&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/app/Http/Kernel.php&#10;AuthenticatesUsers&#9;null&#9;null&#10;routP&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/app/Providers/RouteServiceProvider.php&#10;Authenticate &#9;null&#9;null&#10;AuthController&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/app/Http/Controllers/Auth/AuthController.php&#10;route.&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/app/Http/routes.php&#10;use&#9;null&#9;null&#10;auth&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/config/auth.php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laravel5-plantilla2" />
+    <property name="SearchEverywhereHistoryKey" value="HAnd&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Exceptions/Handler.php&#10;Divi&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/DivitionController.php&#10;rou&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/routes.php&#10;UserCon&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/UserController.php&#10;user&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/User.php&#10;route&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/vendor/laravel/framework/src/Illuminate/Routing/Router.php&#10;User&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/User.php&#10;index&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/resources/views/users/index.blade.php&#10;temp&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/resources/assets/js/template.js&#10;Servi&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Providers/AppServiceProvider.php&#10;AppSer&#9;null&#9;null&#10;Emplo&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Employee.php&#10;Depart&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/DepartmentController.php&#10;depa&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/DepartmentController.php&#10;Au&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/Auth/AuthController.php&#10;rout&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/routes.php&#10;gulp&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/gulpfile.js&#10;emplo&#9;null&#9;null&#10;departmenCon&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/DepartmentController.php&#10;depart&#9;null&#9;null&#10;dep&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/DepartmentController.php&#10;home&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/HomeController.php&#10;hom&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/HomeController.php&#10;ulp&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/gulpfile.js&#10;Aut&#9;null&#9;null&#10;Admin&#9;null&#9;null&#10;HomeController&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/HomeController.php&#10;Con&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Http/Controllers/HomeController.php&#10;Employ&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/app/Employee.php&#10;Proje&#9;ACTION&#9;ActivateProjectToolWindow&#10;see&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel5-EMPRESA-TEST/database/seeds/DatabaseSeeder.php&#10;regist&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/resources/views/auth/register.blade.php&#10;app&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/config/app.php&#10;Kernel&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/app/Http/Kernel.php&#10;au&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/app/Http/Middleware/Authenticate.php&#10;app.php&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/config/app.php&#10;regi&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/resources/views/auth/register.blade.php&#10;Hom&#9;null&#9;null&#10;Auth&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/app/Http/Controllers/Auth/AuthController.php&#10;kern&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/app/Http/Kernel.php&#10;AuthenticatesUsers&#9;null&#9;null&#10;routP&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/app/Providers/RouteServiceProvider.php&#10;Authenticate &#9;null&#9;null&#10;AuthController&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/app/Http/Controllers/Auth/AuthController.php&#10;route.&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/app/Http/routes.php&#10;use&#9;null&#9;null&#10;auth&#9;FILE&#9;file://E:/xampp_new/htdocs/laravel-tutorial/config/auth.php" />
     <property name="js.buildTools.gulp.node_interpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="C:\Users\FIDEL-CASA\AppData\Roaming\npm\node_modules\gulp" />
     <property name="JavaScriptLanguageLevel" value="JS_1_8_5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xampp_new\htdocs\laravel5-EMPRESA-TEST\resources\assets\js" />
+      <recent name="E:\xampp_new\htdocs\laravel5-EMPRESA-TEST" />
       <recent name="E:\xampp_new\htdocs\laravel5-EMPRESA-TEST\resources\views\partials" />
       <recent name="E:\xampp_new\htdocs\laravel5-EMPRESA-TEST\config" />
-      <recent name="E:\xampp_new\htdocs\laravel5-EMPRESA-TEST\resources\assets\js" />
       <recent name="E:\xampp_new\htdocs\laravel5-EMPRESA-TEST\resources\views\department" />
-      <recent name="E:\xampp_new\htdocs\laravel5-EMPRESA-TEST\resources\views\divition" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\xampp_new\htdocs\laravel5-EMPRESA-TEST\resources\views\layouts" />
@@ -561,18 +590,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17776097" sideWeight="0.37908497" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20726173" sideWeight="0.62091506" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16565809" sideWeight="0.62091506" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23529412" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29248366" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26960784" sideWeight="0.4969743" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26143792" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2859477" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17549168" sideWeight="0.42440802" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -589,15 +618,15 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23529412" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29248366" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26960784" sideWeight="0.4969743" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21568628" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26143792" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2859477" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17776097" sideWeight="0.37908497" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20726173" sideWeight="0.62091506" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1633888" sideWeight="0.62091506" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4232026" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -623,82 +652,24 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/app/Http/Controllers/UserController.php</url>
-          <line>95</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/app/Http/Controllers/UserController.php</url>
-          <line>23</line>
+          <line>24</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/app/Http/Controllers/UserController.php</url>
-          <line>24</line>
+          <line>25</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="11" />
+      <option name="time" value="13" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DepartmentController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.09677419">
-          <caret line="84" column="36" selection-start-line="84" selection-start-column="32" selection-end-line="84" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Employee.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29936305">
-          <caret line="9" column="55" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/partials/success-message.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32484075">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/partials/success-request-ajax.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/partials/errors-request-ajax.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/partials/errors-request.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3046595">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.086021505">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2015_09_08_151049_create_employees_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31182796">
           <caret line="17" column="117" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="117" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -706,13 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2437276">
           <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/lang/es/validation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74291116">
-          <caret line="111" column="48" selection-start-line="111" selection-start-column="48" selection-end-line="111" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -730,19 +694,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/admin.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2015_09_08_150918_create_divitions_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.58311343">
           <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -760,13 +715,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Exceptions/Handler.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7757256">
-          <caret line="78" column="5" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/partials/errors.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27419356">
@@ -778,13 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3655914">
           <caret line="12" column="76" selection-start-line="12" selection-start-column="76" selection-end-line="12" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/admin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -821,7 +762,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20250896">
           <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -837,7 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23746702">
           <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -845,23 +784,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.66490763">
           <caret line="1221" column="0" selection-start-line="1221" selection-start-column="0" selection-end-line="1221" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/assets/js/template.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4617284">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/users/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.058047492">
-          <caret line="73" column="44" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -877,7 +799,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.653846">
           <caret line="30" column="56" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -893,7 +814,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31398416">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -909,7 +829,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17941953">
           <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -933,48 +852,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5430108">
           <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DivitionController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.153846">
-          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-39.115383">
-          <caret line="97" column="55" selection-start-line="97" selection-start-column="55" selection-end-line="97" selection-end-column="55" />
-          <folding>
-            <element signature="e#44#95#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/PasswordController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.423077">
+        <state vertical-scroll-proportion="0.0">
           <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/auth/register.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.692307">
+        <state vertical-scroll-proportion="0.0">
           <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.038462">
-          <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -983,60 +874,177 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3655914">
           <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.730769">
+        <state vertical-scroll-proportion="0.091603056">
           <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-          <folding>
-            <element signature="e#46#74#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.9230769">
+        <state vertical-scroll-proportion="0.259542">
           <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="7.3076925">
+        <state vertical-scroll-proportion="0.0">
           <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
-          <folding>
-            <element signature="e#27#63#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.5">
+        <state vertical-scroll-proportion="0.0">
           <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/exporting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37842464">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lang/es/validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58960575">
+          <caret line="107" column="8" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Divition.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1827957">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/users/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="89" column="4" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/partials/graphics/dashboard-graphics.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="129" column="4" selection-start-line="129" selection-start-column="4" selection-end-line="131" selection-end-column="7" />
           <folding>
-            <element signature="e#49#66#0#PHP" expanded="true" />
+            <element signature="e#44#65#0#PHP" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5248042">
+          <caret line="27" column="111" selection-start-line="27" selection-start-column="111" selection-end-line="27" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/graphics.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="20" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+          <folding>
+            <marker date="1442135126525" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442135126525" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DivitionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.3461537">
+          <caret line="109" column="57" selection-start-line="109" selection-start-column="57" selection-end-line="109" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/principal.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.8461537">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/assets/less/app.less">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="26" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/admin.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="39.23077">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6816038">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Exceptions/Handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.826972">
+          <caret line="78" column="5" selection-start-line="56" selection-start-column="4" selection-end-line="78" selection-end-column="5" />
           <folding />
         </state>
       </provider>

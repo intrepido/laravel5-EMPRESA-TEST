@@ -77,6 +77,10 @@
     @include('partials.errors-request-ajax')
     @include('partials.success-request-ajax')
 
+    @if(Request::segment(1)==='admin' && !Request::segment(2))
+        @include('partials.graphics.dashboard-graphics')
+    @endif
+
     @yield('content-admin')
 </div>
 
@@ -84,7 +88,11 @@
 {!! Html::script('js/jquery.min.js') !!}
 {!! Html::script('js/bootstrap.min.js') !!}
 {!! Html::script('js/metisMenu.min.js') !!}
-{!! Html::script('js/admin.js') !!}
+{!! Html::script('js/highcharts.js') !!}
+{!! Html::script('js/exporting.js') !!}
+{!! Html::script('js/data.js') !!}
+{!! Html::script('js/drilldown.js') !!}
+{!! Html::script('js/graphics.js') !!}
 @yield('scripts')
 </body>
 </html>

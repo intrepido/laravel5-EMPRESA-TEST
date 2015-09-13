@@ -109,4 +109,21 @@ class DivitionController extends Controller
         session()->flash('message', 'Divition eliminated successfuly!!');
         return redirect()->route('admin.divition.index');
     }
+
+
+
+    public function getTotalDepartmentByDivitions(Request $request)
+    {
+        //dd($request->all());
+        if ($request->ajax()) {
+            $divDepArray = Array();
+            $divitions = Divition::all();
+            foreach ($divitions as $divition) {
+                $divDepArray = array_add($divDepArray, $divition->name, $divition->departments->toArray());
+            }
+
+            return response()->json(['divDepArray' => $divDepArray]);
+        }
+
+    }
 }

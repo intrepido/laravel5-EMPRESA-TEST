@@ -1,14 +1,10 @@
 $(document).ready(function () {
-        //Menu lateral izquierdo de la pagina de administracion
-        $("#menu").metisMenu();
-
 
         /*******************************
          Para el UserController
          *******************************/
 
          cargarTable(1);
-
 
         $(document).on('click', '.pagination a', function (e) { //Tiene que ser declarado con "$(document).on" para que asi pueda escuchar desde la raiz
             e.preventDefault();                                  // del documento cualquier elemento dinamico que se cree, en este caso el componente
@@ -191,4 +187,3 @@ $(document).ready(function () {
     }
 )
 ;
-//# sourceMappingURL=admin.js.map

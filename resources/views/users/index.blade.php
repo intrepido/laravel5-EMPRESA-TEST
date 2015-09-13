@@ -85,4 +85,7 @@
 
 
     </div>
+    @section('scripts')
+       {!! Html::script('js/users.js') !!}
+    @endsection
 @endsection

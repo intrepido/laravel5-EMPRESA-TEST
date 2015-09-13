@@ -12,7 +12,7 @@ Configuraciones:
 - Sistema de login y authorization
 - Ejemplo de traducciones en las vistas.
 - Instalacion de Elixir y gulp para la automatizacion de tareas como compresion de js, css, pruebas unitarias, etc.
-- Instalacion y configuracion de Bower.
+- Instalacion y configuracion de Bower (librerias instaladas: bootstrap, jquery).
 
 Ejemplos realizados y que pueden reutilizarse:
 - Uso de ajax en el modulo de Users para listar, insertar, modifica y eliminar.

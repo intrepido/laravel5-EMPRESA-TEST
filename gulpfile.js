@@ -17,10 +17,15 @@ elixir(function(mix) {
         .copy(bowerDir + 'metisMenu/dist/metisMenu.min.css', 'public/css/metisMenu.min.css')
         .copy(bowerDir + 'jquery/dist/jquery.min.js', 'public/js/jquery.min.js')
         .copy(bowerDir + 'bootstrap/dist/js/bootstrap.min.js', 'public/js/bootstrap.min.js')
-        .copy(bowerDir + 'metisMenu/dist/metisMenu.min.js', 'public/js/metisMenu.min.js');
+        .copy(bowerDir + 'metisMenu/dist/metisMenu.min.js', 'public/js/metisMenu.min.js')
+        .copy(bowerDir + 'highcharts/highcharts.js', 'public/js/highcharts.js')
+        .copy(bowerDir + 'highcharts/modules/exporting.js', 'public/js/exporting.js')
+        .copy(bowerDir + 'highcharts/modules/data.js', 'public/js/data.js')
+        .copy(bowerDir + 'highcharts/modules/drilldown.js', 'public/js/drilldown.js');
 
     mix.less('app.less');
-    mix.scripts(['template.js'], 'public/js/admin.js');
+    mix.scripts('graphics.js', 'public/js/graphics.js');
+    mix.scripts('users.js', 'public/js/users.js');
     mix.styles(['template.css'], 'public/css/admin.css');
 
     /*
