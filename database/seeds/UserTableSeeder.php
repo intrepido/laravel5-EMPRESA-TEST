@@ -16,7 +16,7 @@ class UserTableSeeder extends Seeder
             ->create([
                 'name' => 'Fidel',
                 'email' => 'in3pi287@gmail.com',
-                'password' => bcrypt('baddog'),
+                'password' => 'baddog',
                 'remember_token' => str_random(10),
             ])->employee()->save(factory(Company\Employee::class)->make());
 
